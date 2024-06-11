@@ -1,0 +1,12 @@
+[package]
+name = "audio-visualiser"
+version = "0.1.0"
+edition = "2021"
+authors = ["Siddhant Barua", "Saketh Kalaga"]
+repository = "https://github.com/siddhantbarua/audio-visualiser"
+homepage = "https://github.com/siddhantbarua/audio-visualiser"
+license = "MIT"
+categories = ["audio"]
+keywords = ["visualiser", "audio"]
+
+[dependencies]
